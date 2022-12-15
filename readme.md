@@ -15,7 +15,7 @@ the eventual aim is to add to PyPi for fast deployment, but currently download t
    -> [... rinse and repeat]
 
 # running
-python main.py --config <path to config.json>
+python main.py --config [path to config.json]
 
 # languages and technologies
 - python 3.8+
