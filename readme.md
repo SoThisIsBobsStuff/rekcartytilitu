@@ -24,7 +24,7 @@ python main.py --config [path to config.json]
 # requirements
 - python -m pip install -r requirements.txt
 
-# Config File:
+# config file:
 - paths
   - settings
       - type - [file | envvar | database | api | uri]
